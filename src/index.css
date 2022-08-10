@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.dropDown-container {
+  padding: 10px;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.product-Card {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.product-image {
+  height: 80px;
+  width: 60px;
+}
+
+.products {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2rem;
+  margin-bottom: 300px;
+}
+
+.description {
+  position: absolute;
+  width: 300px;
+  top: 300px;
+  border: 1px solid black;
+  background-color: lightblue;
+}
